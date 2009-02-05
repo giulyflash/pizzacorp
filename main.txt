@@ -1,0 +1,30 @@
+Small
+Medium
+Large
+Xtra Large
+Coke
+Sprite
+Orange
+Root Beer
+Pepperoni
+Bacon
+Ham
+Pineapple
+Red Peppers
+Tomatoes
+Green Olives
+Xtra Cheese
+Meat Lovers
+11100001
+Veggie Lovers
+00011110
+Hawaiian
+00110101
+6.5 8.5 10 12
+1.15 1.15 1.4 1.4
+0.6 0.6 0.75 0.75
+5 7 8.5 10.5
+1
+2
+0.5
+0.14

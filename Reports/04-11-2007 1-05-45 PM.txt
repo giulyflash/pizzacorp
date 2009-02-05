@@ -1,0 +1,16 @@
+Loaded data for Store #1
+Loaded data for Store #2
+Loaded data for Store #3
+Loaded data for Store #4
+Loaded data for Store #5
+Loaded data for Store #6
+Loaded data for Store #7
+Loaded data for Store #8
+Loaded data for Store #9
+Loaded data for Store #10
+
+  Total Meat Lovers Pizzas: 1
+  Total Veggie Lovers Pizzas: 11
+  Total Hawaiian Pizzas: 11
+  Total slice-pop combos: 119
+

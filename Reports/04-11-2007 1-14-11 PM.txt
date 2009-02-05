@@ -1,0 +1,56 @@
+  STORE #1
+    Meat Lovers Pizzas: 1
+    Veggie Lovers Pizzas: 2
+    Hawaiian Pizzas: 2
+    Slice-pop combos: 20
+  STORE #2
+    Meat Lovers Pizzas: 0
+    Veggie Lovers Pizzas: 1
+    Hawaiian Pizzas: 2
+    Slice-pop combos: 16
+  STORE #3
+    Meat Lovers Pizzas: 0
+    Veggie Lovers Pizzas: 1
+    Hawaiian Pizzas: 1
+    Slice-pop combos: 10
+  STORE #4
+    Meat Lovers Pizzas: 0
+    Veggie Lovers Pizzas: 1
+    Hawaiian Pizzas: 0
+    Slice-pop combos: 12
+  STORE #5
+    Meat Lovers Pizzas: 0
+    Veggie Lovers Pizzas: 1
+    Hawaiian Pizzas: 1
+    Slice-pop combos: 15
+  STORE #6
+    Meat Lovers Pizzas: 0
+    Veggie Lovers Pizzas: 0
+    Hawaiian Pizzas: 2
+    Slice-pop combos: 12
+  STORE #7
+    Meat Lovers Pizzas: 0
+    Veggie Lovers Pizzas: 1
+    Hawaiian Pizzas: 0
+    Slice-pop combos: 4
+  STORE #8
+    Meat Lovers Pizzas: 0
+    Veggie Lovers Pizzas: 2
+    Hawaiian Pizzas: 1
+    Slice-pop combos: 9
+  STORE #9
+    Meat Lovers Pizzas: 0
+    Veggie Lovers Pizzas: 2
+    Hawaiian Pizzas: 1
+    Slice-pop combos: 15
+  STORE #10
+    Meat Lovers Pizzas: 0
+    Veggie Lovers Pizzas: 0
+    Hawaiian Pizzas: 1
+    Slice-pop combos: 8
+
+  Total Meat Lovers Pizzas: 1
+  Total Veggie Lovers Pizzas: 11
+  Total Hawaiian Pizzas: 11
+  Total slice-pop combos: 121
+
