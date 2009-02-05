@@ -1,0 +1,241 @@
+Loaded data for Store #1
+Loaded data for Store #2
+Loaded data for Store #3
+Loaded data for Store #10
+
+  STORE #1
+    Total Revenue: $123.17
+    Total Tax: $15.12
+    Total Sales: $108.05
+
+  STORE #2
+    Total Revenue: $11.34
+    Total Tax: $1.39
+    Total Sales: $9.95
+
+  STORE #3
+    Total Revenue: $17.95
+    Total Tax: $2.20
+    Total Sales: $15.75
+
+  STORE #10
+    Total Revenue: $11.40
+    Total Tax: $1.40
+    Total Sales: $10.00
+
+  TOTAL REVENUE: $163.86
+  TOTAL TAX: $20.11
+  TOTAL SALES: $143.75
+  STORE #1
+    Coke: 2 cans
+    Sprite: 2 cans
+    Orange: 3 cans
+    Root Beer: 1 cans
+  STORE #2
+    Coke: 0 cans
+    Sprite: 0 cans
+    Orange: 0 cans
+    Root Beer: 0 cans
+  STORE #3
+    Coke: 1 cans
+    Sprite: 2 cans
+    Orange: 0 cans
+    Root Beer: 0 cans
+  STORE #10
+    Coke: 0 cans
+    Sprite: 0 cans
+    Orange: 0 cans
+    Root Beer: 0 cans
+
+  Total Coke: 3 cans
+  Total Sprite: 4 cans
+  Total Orange: 3 cans
+  Total Root Beer: 1 cans
+
+  STORE #1
+    Full toppings
+      Pepperoni: 1 units
+      Bacon: 1 units
+      Ham: 4 units
+      Pineapple: 4 units
+      Red Peppers: 2 units
+      Tomatoes: 2 units
+      Green Olives: 2 units
+      Xtra Cheese: 2 units
+    Half-toppings
+      Pepperoni: 2 units
+      Bacon: 1 units
+      Ham: 2 units
+      Pineapple: 1 units
+      Red Peppers: 1 units
+      Tomatoes: 1 units
+      Green Olives: 1 units
+      Xtra Cheese: 1 units
+    Slice toppings
+      Pepperoni: 3 units
+      Bacon: 3 units
+      Ham: 3 units
+      Pineapple: 3 units
+      Red Peppers: 3 units
+      Tomatoes: 3 units
+      Green Olives: 3 units
+      Xtra Cheese: 3 units
+
+  STORE #2
+    Full toppings
+      Pepperoni: 1 units
+      Bacon: 1 units
+      Ham: 1 units
+      Pineapple: 0 units
+      Red Peppers: 0 units
+      Tomatoes: 0 units
+      Green Olives: 0 units
+      Xtra Cheese: 0 units
+    Half-toppings
+      Pepperoni: 0 units
+      Bacon: 0 units
+      Ham: 0 units
+      Pineapple: 0 units
+      Red Peppers: 0 units
+      Tomatoes: 0 units
+      Green Olives: 0 units
+      Xtra Cheese: 0 units
+    Slice toppings
+      Pepperoni: 0 units
+      Bacon: 0 units
+      Ham: 0 units
+      Pineapple: 0 units
+      Red Peppers: 0 units
+      Tomatoes: 0 units
+      Green Olives: 0 units
+      Xtra Cheese: 0 units
+
+  STORE #3
+    Full toppings
+      Pepperoni: 0 units
+      Bacon: 0 units
+      Ham: 0 units
+      Pineapple: 0 units
+      Red Peppers: 0 units
+      Tomatoes: 0 units
+      Green Olives: 0 units
+      Xtra Cheese: 0 units
+    Half-toppings
+      Pepperoni: 1 units
+      Bacon: 0 units
+      Ham: 0 units
+      Pineapple: 0 units
+      Red Peppers: 0 units
+      Tomatoes: 0 units
+      Green Olives: 0 units
+      Xtra Cheese: 0 units
+    Slice toppings
+      Pepperoni: 0 units
+      Bacon: 0 units
+      Ham: 0 units
+      Pineapple: 0 units
+      Red Peppers: 0 units
+      Tomatoes: 0 units
+      Green Olives: 0 units
+      Xtra Cheese: 0 units
+
+  STORE #10
+    Full toppings
+      Pepperoni: 0 units
+      Bacon: 0 units
+      Ham: 0 units
+      Pineapple: 0 units
+      Red Peppers: 0 units
+      Tomatoes: 0 units
+      Green Olives: 0 units
+      Xtra Cheese: 0 units
+    Half-toppings
+      Pepperoni: 0 units
+      Bacon: 0 units
+      Ham: 0 units
+      Pineapple: 0 units
+      Red Peppers: 0 units
+      Tomatoes: 0 units
+      Green Olives: 0 units
+      Xtra Cheese: 0 units
+    Slice toppings
+      Pepperoni: 0 units
+      Bacon: 0 units
+      Ham: 0 units
+      Pineapple: 0 units
+      Red Peppers: 0 units
+      Tomatoes: 0 units
+      Green Olives: 0 units
+      Xtra Cheese: 0 units
+
+  Total Pepperoni: 8 units
+  Total Bacon: 6 units
+  Total Ham: 10 units
+  Total Pineapple: 8 units
+  Total Red Peppers: 6 units
+  Total Tomatoes: 6 units
+  Total Green Olives: 6 units
+  Total Xtra Cheese: 6 units
+
+  STORE #1
+    Small pizzas: 8
+    Medium pizzas: 0
+    Large pizzas: 1
+    Xtra Large pizzas: 1
+    Slices: 9
+  STORE #2
+    Small pizzas: 1
+    Medium pizzas: 0
+    Large pizzas: 0
+    Xtra Large pizzas: 0
+    Slices: 1
+  STORE #3
+    Small pizzas: 1
+    Medium pizzas: 0
+    Large pizzas: 0
+    Xtra Large pizzas: 1
+    Slices: 2
+  STORE #10
+    Small pizzas: 0
+    Medium pizzas: 0
+    Large pizzas: 1
+    Xtra Large pizzas: 0
+    Slices: 1
+
+  Total Small pizzas: 10
+  Total Medium pizzas: 0
+  Total Large pizzas: 2
+  Total Xtra Large pizzas: 2
+  Total Slices: 13
+
+  STORE #1
+    Small 2-item pizzas: 1
+    Medium 2-item pizzas: 0
+    Large 2-item pizzas: 0
+    Xtra Large 2-item pizzas: 0
+    2-item slices: 0
+  STORE #2
+    Small 2-item pizzas: 0
+    Medium 2-item pizzas: 0
+    Large 2-item pizzas: 0
+    Xtra Large 2-item pizzas: 0
+    2-item slices: 0
+  STORE #3
+    Small 2-item pizzas: 0
+    Medium 2-item pizzas: 0
+    Large 2-item pizzas: 0
+    Xtra Large 2-item pizzas: 0
+    2-item slices: 0
+  STORE #10
+    Small 2-item pizzas: 0
+    Medium 2-item pizzas: 0
+    Large 2-item pizzas: 0
+    Xtra Large 2-item pizzas: 0
+    2-item slices: 0
+
+  Small 2-item pizzas: 1
+  Medium 2-item pizzas: 0
+  Large 2-item pizzas: 0
+  Xtra Large 2-item pizzas: 0
+  2-item slices: 0
+

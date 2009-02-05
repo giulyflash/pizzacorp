@@ -1,0 +1,44 @@
+'Global variables
+Public PizzaSizes(0 To 3) As String
+Public PopNames(0 To 3) As String
+Public TopNames(0 To 7) As String
+
+Public SpecialTops(0 To 2, 0 To 3) As Integer
+Public SpecialNames(0 To 2) As String
+
+'Global types
+Public Type Pizza
+    FULLMODE As Boolean
+    TOPS(0 To 7) As Integer
+    TOPS2(0 To 7) As Integer
+    SIZE As Integer
+End Type
+Public Type Order
+    PIZZADATA() As Pizza
+    POP(0 To 3) As Integer
+    ID As String
+End Type
+Public ORDERS() As Order
+
+
+    'Load the specials toppings
+    'Meat Lovers
+    SpecialNames(0) = "Meat Lovers"
+    SpecialTops(0, 0) = 0 'Pepp
+    SpecialTops(0, 1) = 1 'Bacon
+    SpecialTops(0, 2) = 2 'Ham
+    SpecialTops(0, 3) = 7 'Xtra Cheese
+    
+    'Veggie Lovers
+    SpecialNames(1) = "Veggie Lovers"
+    SpecialTops(1, 0) = 3 'Pineapple
+    SpecialTops(1, 1) = 4 'Red Peppers
+    SpecialTops(1, 2) = 5 'Tomatoes
+    SpecialTops(1, 3) = 6 'Grn Olives
+    
+    'Hawaiian
+    SpecialNames(2) = "Hawaiian"
+    SpecialTops(2, 0) = 7 'Xtra cheese
+    SpecialTops(2, 1) = 2 'Ham
+    SpecialTops(2, 2) = 3 'Pineapple
+    SpecialTops(2, 3) = 5 'Tomatoes

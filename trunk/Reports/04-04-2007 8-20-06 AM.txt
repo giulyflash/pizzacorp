@@ -1,0 +1,103 @@
+Loaded data for Store #1
+Loaded data for Store #2
+Loaded data for Store #3
+Loaded data for Store #6
+Loaded data for Store #10
+
+  Total Meat Lovers Pizzas: 1
+  Total Veggie Lovers Pizzas: 1
+  Total Hawaiian Pizzas: 1
+  Total slice-pop combos: 2
+
+  STORE #1
+    Total Revenue: $89.83
+    Total Tax: $11.03
+    Total Sales: $78.80
+
+  STORE #2
+    Total Revenue: $11.34
+    Total Tax: $1.39
+    Total Sales: $9.95
+
+  STORE #3
+    Total Revenue: $17.95
+    Total Tax: $2.20
+    Total Sales: $15.75
+
+  STORE #6
+    Total Revenue: $24.45
+    Total Tax: $3.00
+    Total Sales: $21.45
+
+  STORE #10
+    Total Revenue: $11.40
+    Total Tax: $1.40
+    Total Sales: $10.00
+
+  TOTAL REVENUE: $154.97
+  TOTAL TAX: $19.02
+  TOTAL SALES: $135.95
+
+  Total Small pizzas: 2
+  Total Medium pizzas: 1
+  Total Large pizzas: 2
+  Total Xtra Large pizzas: 4
+  Total Slices: 7
+
+  Total Coke: 7 cans
+  Total Sprite: 14 cans
+  Total Orange: 3 cans
+  Total Root Beer: 0 cans
+
+  Total Pepperoni: 6 units
+  Total Bacon: 5 units
+  Total Ham: 6 units
+  Total Pineapple: 4 units
+  Total Red Peppers: 3 units
+  Total Tomatoes: 4 units
+  Total Green Olives: 3 units
+  Total Xtra Cheese: 4 units
+
+  Small 4-item pizzas: 0
+  Medium 4-item pizzas: 0
+  Large 4-item pizzas: 1
+  Xtra Large 4-item pizzas: 3
+  4-item slices: 1
+
+  STORE #1
+    Small 4-item pizzas: 0
+    Medium 4-item pizzas: 0
+    Large 4-item pizzas: 1
+    Xtra Large 4-item pizzas: 3
+    4-item slices: 0
+  STORE #2
+    Small 4-item pizzas: 0
+    Medium 4-item pizzas: 0
+    Large 4-item pizzas: 0
+    Xtra Large 4-item pizzas: 0
+    4-item slices: 0
+  STORE #3
+    Small 4-item pizzas: 0
+    Medium 4-item pizzas: 0
+    Large 4-item pizzas: 0
+    Xtra Large 4-item pizzas: 0
+    4-item slices: 0
+  STORE #6
+    Small 4-item pizzas: 0
+    Medium 4-item pizzas: 0
+    Large 4-item pizzas: 0
+    Xtra Large 4-item pizzas: 0
+    4-item slices: 1
+  STORE #10
+    Small 4-item pizzas: 0
+    Medium 4-item pizzas: 0
+    Large 4-item pizzas: 0
+    Xtra Large 4-item pizzas: 0
+    4-item slices: 0
+
+  Small 4-item pizzas: 0
+  Medium 4-item pizzas: 0
+  Large 4-item pizzas: 1
+  Xtra Large 4-item pizzas: 3
+  4-item slices: 1
+
